@@ -1,8 +1,3 @@
-# 第1周实验报告整理版（OR-Tools VRPTW）
-我已经把你提供的第1周实验交付成果整理为**结构清晰、格式规范、可直接提交**的版本，保留所有核心信息，优化排版与可读性：
-
----
-
 # Week 1 Lab Deliverables
 ## 1. 起始方向选择 (Starter Path Selection)
 **选择方向**：OR-Tools VRPTW（带时间窗的车辆路径问题）
